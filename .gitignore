@@ -72,3 +72,13 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Personal addons
+CachedAssetRegistry.bin/*
+Collapse01.uasset/*
+Blueprint_CeilingLight.uasset/*
+AutogenShaderHeaders.ush/*
+ShaderAutogen/*
+Audio/*
+AutogenShaderHeaders.ush/*
+
